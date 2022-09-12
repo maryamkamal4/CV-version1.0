@@ -1,0 +1,27 @@
+body {
+    background-color: #BFACE0;
+  }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+  }
+  h1 {
+    color: #533483;
+  }
+  h3 {
+    color: #645CAA;
+  }
+  .button1 {
+    background-color: #BFACE0;
+    border-color: #EEEEEE;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 5px 12px;
+  }
+ .button1:hover {background-color: #645CAA}
+  img {
+    background-color: aquamarine;
+  }
